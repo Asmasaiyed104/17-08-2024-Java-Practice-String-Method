@@ -37,7 +37,7 @@ public class Student {
 
 
         sb.replace(1,4, "Ca");
-        System.out.println("After replace : " + sbgit);
+        System.out.println("After replace : " + sb);
 
 
 
